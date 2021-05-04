@@ -1,74 +1,46 @@
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+  <img alt="podcastr" title="podcastr" src="https://github.com/rocketseat-education/nlw-05-reactjs/blob/main/.github/logo.png" />
 </h1>
 
 <p align="center">
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
-</p>
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/C0bal/reactjs-podcastr-nlw5?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
-
-  <img src="https://img.shields.io/github/stars/C0bal/reactjs-podcastr-nlw5?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+ <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  <img alt="Podcastr" src="https://github.com/rocketseat-education/nlw-05-reactjs/blob/main/.github/podcastr.png" width="100%">
 </p>
 
-## 🧪 Technologies
+## ✨ Tecnologias
 
-This project was developed using the following technologies:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Getting started
+## 💻 Projeto
 
-Clone the project and access the folder
-
-```bash
-$ git clone https://github.com/giuliana-bezerra/nlw5-podcastr && cd nlw5-podcastr
-```
-
-Follow the steps below
-
-```bash
-# Install the dependencies
-$ yarn
-
-# Start the project
-$ yarn dev
-```
-
-## 💻 Project
-
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
-
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
+O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito. Ele foi desenvolvido durante o NLW#5.
 
 ## 🔖 Layout
 
-You can view the project layout through the links below:
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+## 🚀 Como executar
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie a fake api com `yarn server`
+- Inicie o servidor com `yarn dev`
 
-## 📝 License
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+## 📄 Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
-
-<p align="center">Projected by Rafael Menegon with 🖤</p>
-<p align="center">Readme inspired by Guilherme Capitão</p>
